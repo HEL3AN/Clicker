@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClickerClassLibrary", "ClickerClassLibrary\ClickerClassLibrary.csproj", "{51B8056C-6132-4CE6-AB9D-D6C1B0CD340C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickerWindowsForms", "ClickerWindowsForms\ClickerWindowsForms.csproj", "{A1340363-B7D2-4E67-BFA6-5DE7CB939ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51B8056C-6132-4CE6-AB9D-D6C1B0CD340C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B8056C-6132-4CE6-AB9D-D6C1B0CD340C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B8056C-6132-4CE6-AB9D-D6C1B0CD340C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B8056C-6132-4CE6-AB9D-D6C1B0CD340C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1340363-B7D2-4E67-BFA6-5DE7CB939ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1340363-B7D2-4E67-BFA6-5DE7CB939ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1340363-B7D2-4E67-BFA6-5DE7CB939ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1340363-B7D2-4E67-BFA6-5DE7CB939ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1497F5B3-A5A5-4278-BABD-4E8D16FDD4C5}
+	EndGlobalSection
+EndGlobal
